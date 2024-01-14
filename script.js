@@ -106,5 +106,3 @@ btnRef.forEach((element) => {
 });
 //Enable Buttons and disable popup on page load
 window.onload = enableButtons;
-
-
